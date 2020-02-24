@@ -1,0 +1,9 @@
+<코드 실행방법>
+로컬 머신의 사양 문제로 모든 작업을 구글 코랩(colab.research.google.com)에서 진행하였습니다.
+따라서 !커멘드, 구글코렙 파일패키지 등을 사용하기에 로컬머신으로 쥬피터노트북실행하여 코드실행하면 실행되지않습니다.
+
+구글 코랩에 노트북 파일 두개(baseline model, main model)업로드 하셔서 run all 하시면 됩니다.
+
+<How to Run>
+This project is done in Google Colab environment.
+You need to upload the two ipynb files to the colab workspace and then run it.
